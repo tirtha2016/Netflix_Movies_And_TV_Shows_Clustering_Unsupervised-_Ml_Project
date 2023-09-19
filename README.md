@@ -14,7 +14,7 @@ The specific tasks to be performed in this project include:
 
 **Understanding Content Availability**: Determine the types of content available in different countries and identify any variations or preferences. Analyzing Netflix's Focus: Investigate whether Netflix has been increasingly focusing on TV shows rather than movies in recent years. Clustering Similar Content: Utilize text-based features to cluster similar content, enabling the development of a content-based recommender system.
 
-# **Data Summery**
+# **Data Summary**
 
 This dataset consists of tv shows and movies available on Netflix as of 2019. The dataset is collected from Fixable which is a third-party Netflix search engine. In 2018, they released an interesting report which shows that the number of TV shows on Netflix has nearly tripled since 2010. The streaming service’s number of movies has decreased by more than 2,000 titles since 2010, while its number of TV shows has nearly tripled. It will be interesting to explore what all other insights can be obtained from the same dataset. Integrating this dataset with other external datasets such as IMDB ratings, rotten tomatoes can also provide many interesting findings.
 
